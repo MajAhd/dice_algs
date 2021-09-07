@@ -17,7 +17,7 @@ sum is shown below.
 - run: `DiceAlgs.roll_dice(10..20 , 20..30)`
 - OR any range of value you want.
 
-# Result `DiceAlgs.roll_dice()`
+### Result `DiceAlgs.roll_dice()`
 
 ```
   %{
